@@ -1,0 +1,174 @@
+Alder
+
+Crab Apple
+CBP
+Common Ash
+CAS
+Silver Birch
+SRH SVB
+Downy Birch
+DYB
+European Beech
+EBH
+Box
+BOX
+Wild Cherry
+WDY
+Bird Cherry
+BDY
+Blackthorn
+BRN
+Wych Elm
+WEM
+Smooth-leaved Elm
+SHL
+Common Hawthorn
+CHN
+Midland Hawthorn
+MHW
+Common Hazel
+CHZ
+European Hornbeam
+EHM
+European Holly
+EHY
+Common Juniper
+CJR CNJ
+Small-leaved Lime
+SMI
+Large-leaved Lime
+LDL LLD
+Field Maple
+FDM
+Pedunculate Oak
+POK
+Sessile Oak
+SOK
+Scots Pine
+STP
+Aspen
+APN
+Black Poplar
+BKP BPR
+European Rowan
+EWN
+Common Whitebeam
+CWM
+Service Tree
+SVT
+Wild Service Tree
+WST
+Strawberry Tree
+SYT
+Bay Willow
+BWW BYW
+Crack Willow
+CKW CWW
+White Willow
+WWW
+Almond-leaved Willow
+ADL ADW AWW
+European Yew
+EYW
+Alder Buckthorn
+ABN ARB
+Purging Buckthorn
+PBN
+Elder
+EDR
+Common Dogwood
+CDD CND
+Rock Whitebeam
+RKW RWM
+Sea-buckthorn
+SBN
+Spindle
+SPD
+Sallow
+SLW
+Grey Willow
+GWW GYW
+Purple Willow
+PWW
+Common Osier
+
+Eared Willow
+EDW EWW
+Guelder Rose
+GRR
+Wayfaring tree
+WGT
+Common Privet
+CVT
+Plot's Elm
+PEM
+Quick-Jump-Zone
+QJZ
+Xavier Fox-Whiskey
+XFW
+King's Valley-Highway
+KVH
+Byte-Code Machine
+BYC
+Data-Driven Growth
+DDN
+Programming Process
+PMP PPC
+Statistical Science
+SLS
+Electronic Engineer
+ECE
+Assessment Analysis
+ASA
+Level Learning Loop
+LGP LLG LLP
+B2B/C2C Systems
+BBC BBS BCS
+ML/AI & Database
+MIB
+Web3.0-Technology
+WBT WTY
+Micro.Services.API
+MSA
+Big-Data@Scale
+BDS
+O'Brien's Algorithm
+OAM ONA
+McDonald's Database
+MCB
+Students' Learning
+SLG
+Teachers' Aid's System
+TDS TRA
+James's Network
+JNK
+Ethereal Engine
+EHG
+Innovation Index
+IVN IVX
+Animation Analysis
+ANM
+Ultimate Uniform
+UUM
+Observable Output
+OVO
+Machine-Learning Model
+MLM
+Knowledge Base System
+KBM
+Virtual Reality World
+VLR VLW VWD VYW
+Quantum Computing Lab
+QCL
+Distributed Ledger Tech
+DDL DLH
+Artificial Intelligence
+AFL
+Natural Language Process
+NLL NLP
+Cloud Computing Service
+CCS
+Blockchain Technology
+BNT BTY
+Deep Learning Network
+DGN DLK DPL
