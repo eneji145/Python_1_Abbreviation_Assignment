@@ -1,5 +1,5 @@
 # File: ENEJI_2612928_PYTHON_ASSIGN.py  # Filename
-# Author: Eneji  # Author's name
+# Author: Ali Patrick Eneji  # Author's name
 # Purpose: Generate three-letter abbreviations for names following specific rules  # Brief purpose of the script
 
 import re  # Import regex module for string pattern matching
