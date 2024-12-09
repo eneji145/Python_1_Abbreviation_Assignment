@@ -15,6 +15,8 @@ eneji_initial_words_abbrevs.txt and eneji_more_words_abbrevs.txt: Examples of ge
 ENEJI_2612928_2_PAGE_REPORT.pdf: A detailed report describing the program's architecture, design decisions, test cases, and development challenges.
 
 How to Run
+
 Clone the repository and navigate to the project directory.
+
 Run the main script and provide the input filename when prompted.
 
